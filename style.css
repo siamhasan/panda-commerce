@@ -1,0 +1,71 @@
+.orange {
+    background-color: antiquewhite;
+
+}
+.carousel-item{
+    padding:20px 40px;
+  
+}
+.price{
+    color: brown;
+
+}
+.bye-now{
+    
+    background-color:red;
+    color:white;
+    border-radius: 8px;
+
+}
+.container{
+    margin-bottom: 40px;
+}
+.container-categories{
+    background-color: bisque;
+}
+
+.cat-1{
+    background-color: coral;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat-2{
+    background-color: gold;
+    padding: 20px 30px;
+    border-radius: 20px;
+
+}
+.cat-3{
+    background-color: royalblue;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.container-categories{
+    margin: 40px;
+      
+}
+.shoping{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.m4{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; 
+}
+.card{
+    box-shadow: 5px 5px 10px;
+}
+.container-suscriber{
+   height: 320px; 
+}
+.man{
+    background-color:burlywood;
+}
+footer{
+    text-align: center;
+    color: red
+}
